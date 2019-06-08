@@ -30,7 +30,7 @@ function happyHolidayTo(holiday, name){
 */
 function holidayCountdown(holiday, days){
   if(holiday === "Mother's Day" && days === 20){
-    return 
+    return `It\'s ${days} days until ${holiday}!`
   }
 }
  
