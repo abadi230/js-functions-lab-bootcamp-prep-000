@@ -16,7 +16,7 @@ function happyHolidaysTo(name){
   })
 */
 function happyHolidayTo(holiday, name){
-  var holiday = 
+  
   if(holiday === 'Independence Day'&& name==='you'){
     return `"Happy", ${holiday}, ${name}!`
   } 
