@@ -12,7 +12,7 @@ function happyHolidaysTo(name){
     })
   })
   */
-  name = "you"
+  name = "Abdullah"
   return `Happy holidays, ${name}!`
 }
 /*
