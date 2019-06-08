@@ -5,7 +5,14 @@ function happyHolidays(){
 }
 
 function happyHolidaysTo(name){
-  name = 'you'
+  /*
+  describe('happyHolidaysTo(name)', () => {
+    it('returns "Happy holidays, ${name}!"', () => {
+      expect(happyHolidaysTo('you')).toEqual('Happy holidays, you!')
+    })
+  })
+  */
+  name = "you"
   return "Happy holidays, ${name}!"
 }
 /*
